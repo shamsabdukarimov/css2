@@ -1,0 +1,127 @@
+body {
+  text-align: center;
+  margin: 0;
+}
+h1 {
+  color:blue;
+  font-size: 90px;
+  text-align: center;
+  margin-top: 0;
+  padding: 30px;
+  font-family: 'Libre Franklin', sans-serif;
+}
+h2 {
+
+  color:blue;
+  font-size:60px;
+}
+h3 {
+  font-family: 'Merriweather', serif;
+  color: #33FFFF;
+  font-size: 30px;
+}
+
+h4 {
+  font-family: 'Rubik', sans-serif;
+  color: #80FF00;
+  font-size: 70px;
+}
+.header  {
+background-color:#caf7e3;
+font-family: 'Merriweather', serif;
+}
+span {
+  color: blue;
+}
+.box-1 {
+  width: 30%;
+  margin: auto;
+  font-size: 20px;
+  color: #40514E;
+  line-height: 2;
+}
+hr {
+  width: 4%;
+  border-width: 7px;
+  border-style: dotted;
+  border-top: none;
+  color: #1687a7;
+}
+.chess-img {
+  width: 25%;
+  height: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.skill-row {
+  width: 50%;
+  text-align: left;
+  margin: auto;
+  line-height: 2;
+}
+p {
+ font-family: 'Merriweather', serif;
+}
+
+.img-prog{
+  width: 20%;
+  padding: 30px;
+}
+.programmer {
+  width: 25%;
+  height: 25%;
+  float: right;
+}
+.span {
+color: red;
+}
+.touch {
+  width: 60%;
+  margin:auto;
+text-align: center;
+}
+.as {
+  font-size: 20px;
+  margin: auto;
+  text-align: center;
+}
+.I{
+  text-align: center;
+}
+.button {
+  color: white;
+  background-color:#78c4d4;
+  padding: 20px 30px;
+  border-radius: 300px;
+  text-decoration: none;
+  margin: 30px;
+}
+.button:hover{
+  background-color:#025955;
+}
+.bottom-box {
+  background-color: #66BFBF;
+  padding:50px 0 20px;
+  margin-top: 50px;
+}
+.bottom-link {
+  padding:40px;
+  text-decoration: none;
+  font-family: sans-serif;
+}
+.bottom-link:hover {
+  color: white;
+  font-family: 'Dancing Script', cursive;
+}
+.copyright-message {
+  color: #edeef7;
+  font-size: 15px;
+}
+/* .hi {
+  color: red;
+  font-size: 20px;
+} */
+/* font-family: 'Dancing Script', cursive;
+font-family: 'Libre Franklin', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Montserrat', sans-serif; */
